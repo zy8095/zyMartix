@@ -1,0 +1,6 @@
+D:\OnePresentV2\zyMartix\zyMartix\bin\Debug\zyMartix.exe.config
+D:\OnePresentV2\zyMartix\zyMartix\bin\Debug\zyMartix.exe
+D:\OnePresentV2\zyMartix\zyMartix\bin\Debug\zyMartix.pdb
+D:\OnePresentV2\zyMartix\zyMartix\obj\Debug\zyMartix.csprojResolveAssemblyReference.cache
+D:\OnePresentV2\zyMartix\zyMartix\obj\Debug\zyMartix.exe
+D:\OnePresentV2\zyMartix\zyMartix\obj\Debug\zyMartix.pdb
